@@ -1,7 +1,7 @@
 enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
 
-patches-version = "v2.230.0-dev.5"
-integrations-version = "v0.157.0-dev.3"
+patches-version = "v2.232.0-dev.1"
+integrations-version = "v0.159.0-dev.1"
 cli-source = "inotia00/revanced-cli"
 
 # add 'enabled = false' for not patching a specific app or remove it from the config
